@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 2731b060b2280fc4a94d4321906dfaf0
+  - enabled: 1
+    path: Assets/Scenes/Snake.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: e1ec241dc55205e44bbc1ec9aea14835, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 5c9b7d5db42b82847a3044bdbb363d67, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: ae26f8e1013e1974fbeaaa126d2f801e, type: 2}
